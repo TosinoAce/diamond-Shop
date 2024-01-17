@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name":" Regal Radiance",
+        "price": 15000,
+        "image": "./images/men_ring_1.png",
+        "carat": "5.5-Carat",
+        "attribute": "men"
+    },
+    {
+        "id": 2,
+        "name":" Opulent Opulence",
+        "price": 11000,
+        "image": "./images/men_ring__2.png",
+        "carat": "4.75-Carat",
+        "attribute": "men"
+    },
+    {
+        "id": 3,
+        "name":" Luxe Brilliance",
+        "price": 14000,
+        "image": "./images/women ring1.png",
+        "carat": "6.2-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 4,
+        "name":" Grandeur Gleam",
+        "price": 17500,
+        "image": "./images/women ring2.png",
+        "carat": "7.8-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 5,
+        "name":" Celestial Splendor",
+        "price": 16300,
+        "image": "./images/men_ring__3.png",
+        "carat": "6.5-Carat",
+        "attribute": "men"
+    },
+    {
+        "id": 6,
+        "name":" Timeless Treasure",
+        "price": 17600,
+        "image": "./images/men_ring_4.png",
+        "carat": "8.3-Carat",
+        "attribute": "men"
+    },
+    {
+        "id": 7,
+        "name":" Dazzling Dynasty",
+        "price": 19000,
+        "image": "./images/women ring3.png",
+        "carat": "9-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 8,
+        "name":" Luminous Legacy",
+        "price": 21000,
+        "image": "./images/men_ring_5.png",
+        "carat": "7.25-Carat",
+        "attribute": "men"
+    },
+    {
+        "id": 9,
+        "name":" Pinnacle Sparkle",
+        "price": 19500,
+        "image": "./images/women ring4.png",
+        "carat": "8.5-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 10,
+        "name":" Exquisite Elegance",
+        "price": 35000,
+        "image": "./images/women ring5.png",
+        "carat": "11.5-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 11,
+        "name":" Stellar Majesty",
+        "price": 30000,
+        "image": "./images/women ring6.png",
+        "carat": "10-Carat",
+        "attribute": "women"
+    },
+    {
+        "id": 12,
+        "name":" Eternal Radiance",
+        "price": 27000,
+        "image": "./images/men_ring_6.png",
+        "carat": "9.75-Carat",
+        "attribute": "men"
+        
+    }
+
+]
